@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MArvel-App/static/css/main.56a44bcf.css",
+    "main.js": "/MArvel-App/static/js/main.9bb2dc05.js",
+    "static/media/vision.png": "/MArvel-App/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/MArvel-App/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/MArvel-App/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/MArvel-App/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers_logo.png": "/MArvel-App/static/media/Avengers_logo.9eaf219344d83362e830.png",
+    "index.html": "/MArvel-App/index.html",
+    "main.56a44bcf.css.map": "/MArvel-App/static/css/main.56a44bcf.css.map",
+    "main.9bb2dc05.js.map": "/MArvel-App/static/js/main.9bb2dc05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a44bcf.css",
+    "static/js/main.9bb2dc05.js"
+  ]
+}
